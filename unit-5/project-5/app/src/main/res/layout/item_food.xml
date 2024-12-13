@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="8dp">
+
+    <!-- Food Name TextView -->
+    <TextView
+        android:id="@+id/foodName"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:text="apple"
+        android:textColor="#000000" />
+
+    <!-- Food Calories TextView -->
+
+    <TextView
+        android:id="@+id/foodCalories"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:text="23"
+        android:textColor="@color/black" />
+
+    <TextView
+        android:id="@+id/labelFoodCalories"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="4dp"
+        android:textColor="@color/black"
+        android:textSize="10sp" />
+
+    <!-- Calories Label TextView (added right after calories number) -->
+</LinearLayout>
