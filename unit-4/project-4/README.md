@@ -1,4 +1,4 @@
-# Android Project 4 - *Flixter+*
+# Android Project 4 - *Flixter-2*
 
 Submitted by: **Palina Pauliuchenka**
 
@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 - [ ] **Add another API call and RecyclerView that lets the user interact with different data.**
-- [ ] **Add rounded corners to the images using the Glide transformations**
+- [x] **Add rounded corners to the images using the Glide transformations**
 - [ ] **Implement a shared element transition when user clicks into the details of a movie**
 
 The following **additional** features are implemented:
