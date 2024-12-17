@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b6918e7b-8d87-4b87-8073-b3d6153265a2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/project-4/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-4/app/src/main/java/com/pp272cs388/flixter_2/Movie.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-4/app/src/main/java/com/pp272cs388/flixter_2/MovieDetailActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-4/app/src/main/java/com/pp272cs388/flixter_2/MoviesFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-4/app/src/main/java/com/pp272cs388/flixter_2/MoviesRecyclerViewAdapter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-4/app/src/main/java/com/pp272cs388/flixter_2/OnListFragmentInteractionListener.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-4/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-4/app/src/main/res/layout/activity_movie_detail.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-4/app/src/main/res/layout/fragment_movies.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-4/app/src/main/res/layout/fragment_movies_list.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit-3/projects-3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit-3/projects-3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit-3/projects-3/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit-3/projects-3/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit-3/projects-3/.idea/deploymentTargetSelector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit-3/projects-3/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit-3/projects-3/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit-3/projects-3/.idea/migrations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit-3/projects-3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit-3/projects-3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit-3/projects-3/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit-3/projects-3/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit-3/projects-3/app/apikey.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit-3/projects-3/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit-3/projects-3/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit-3/projects-3/app/src/androidTest/java/com/pp272cs388/flixter_1/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit-3/projects-3/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit-3/projects-3/app/src/main/java/com/pp272cs388/flixter_1/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit-3/projects-3/app/src/main/java/com/pp272cs388/flixter_1/Movie.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit-3/projects-3/app/src/main/java/com/pp272cs388/flixter_1/MoviesFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit-3/projects-3/app/src/main/java/com/pp272cs388/flixter_1/MoviesRecyclerViewAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit-3/projects-3/app/src/main/java/com/pp272cs388/flixter_1/OnListFragmentInteractionListener.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit-3/projects-3/app/src/main/res/drawable/error.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit-3/projects-3/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit-3/projects-3/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit-3/projects-3/app/src/main/res/drawable/placeholder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit-3/projects-3/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit-3/projects-3/app/src/main/res/layout/fragment_movie.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit-3/projects-3/app/src/main/res/layout/fragment_movies_list.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit-3/projects-3/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit-3/projects-3/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit-3/projects-3/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit-3/projects-3/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit-3/projects-3/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit-3/projects-3/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit-3/projects-3/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit-3/projects-3/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit-3/projects-3/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit-3/projects-3/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit-3/projects-3/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit-3/projects-3/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit-3/projects-3/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit-3/projects-3/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit-3/projects-3/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit-3/projects-3/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit-3/projects-3/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit-3/projects-3/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit-3/projects-3/app/src/test/java/com/pp272cs388/flixter_1/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit-3/projects-3/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit-3/projects-3/glide.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit-3/projects-3/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit-3/projects-3/gradle/libs.versions.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit-3/projects-3/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit-3/projects-3/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit-3/projects-3/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit-3/projects-3/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit-3/projects-3/pr-req.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit-3/projects-3/settings.gradle.kts" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "palina-pauliuchenka"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/njit-pp272/cs388-001.git",
+    "accountId": "803a8459-3f43-4bc2-85ae-f3dc2e353ba3"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2qKe9O66kCGJ0bmiIpMC96EeOgP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/palinapauliuchenka/Documents/University/cs388/unit-4"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6918e7b-8d87-4b87-8073-b3d6153265a2" name="Changes" comment="" />
+      <created>1734415541686</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734415541686</updated>
+    </task>
+    <servers />
+  </component>
+</project>
